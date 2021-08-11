@@ -2,4 +2,4 @@
 - 👀 I’m interested in new technologies such as: Swift-UI, Flutter...
 - 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on Swift✨, Kotlin✨ and Flutter✨ 
-- 📫 How to reach me linkedin.com/in/hrmelo
+- 📫 How to reach me <a href="https://www.linkedin.com/in/hrmelo/">linkedin.com/in/hrmelo</a>
